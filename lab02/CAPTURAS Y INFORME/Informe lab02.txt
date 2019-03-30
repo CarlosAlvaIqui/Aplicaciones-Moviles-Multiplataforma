@@ -1,0 +1,37 @@
+Aplicaciones Móviles Multiplataforma
+
+LABORATORIO N°02
+
+Componentes en React JS
+
+Alumno: Carlos Enrique Alvarez Iquiapaza
+
+Punto 2.3 Tome una captura del componente obtenido
+Capturas y Informe Punto 2.3
+
+Punto 3.2 djunte una captura delresultado obtenido
+Capturas y Informe Punto 3.2
+
+Punto 3.6 Después de haber adjuntado una captura del 
+resultado obtenido, modifiquemos el componente principal
+de  App.js  para  demostrar  el  comportamiento  del  mismo  componente  siendo reutilizado con distintos valores.
+Capturas y Informe Punto 3.6
+
+Punto 5.2 Modificaremos al componente contador para que cuente con las siguientes líneas adicionales.
+Capturas y Informe Punto 5.2
+
+Punto 5.4 y 5.5 Modifiquemos  parte  del  render  para  tener  botones  que  alteren  el  estado  de  nuestro componente.
+Capturas y Informe Punto 5.4 y 5.5
+
+Conclusiones y Observaciones
+
+Tras la resolucion de este laboratorio vimos como es la creacion de componentes en react
+
+Vimos como se utilizab las etiquetas de html en react
+
+Si queremos usar una etiqueta X devemos llamar en el import de react native
+
+Tras la resolucion de este laboratorio vimos de que se encarga la funcion render basicamente esta es la
+que se encarga de renderizar el navegador del html correspondiente al componente
+
+Vimos como se declaran valores en react y como interacturar con estos

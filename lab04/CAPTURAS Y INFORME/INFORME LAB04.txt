@@ -1,0 +1,47 @@
+Aplicaciones Móviles Multiplataforma
+
+LABORATORIO N°04
+
+Componentes en React Native
+
+Alumno: Carlos Enrique Alvarez Iquiapaza
+
+Punto 2.6  Al  igual  que  los  elementos  HTML,  los  componentes  en  React  pueden  
+recibir “propiedades”que  les  indican cómocomportarse. Para  invocar  estas  propiedades,  basta  con  llamar  a  la variable interna this.props
+capturas y infomes punto 2.6 
+
+Punto 3.1 Así como los componentes reciben propiedades externas que les indican cómocomportarse, cada uno puede tener sus características propias
+ que le permiten diferenciarse.Esto se llama estado  y  es  una  de  las  características  más útiles  de  React. Podemos  acceder  al  estado  a través de la variable reservada this.state
+capturas y infomes punto 3.1
+
+Punto 3.2 Para modificar el estado, debemos hacer uso de la función this.setStatePara disparar este evento, vamos a crear dos botones, uno qu
+ incremente el valor, y otro que lo disminuya. Modifiquemos nuevamente el código de Contador.js
+capturas y infomes punto 3.2
+
+Punto 3.3 Procederemos  a  agregar  los  eventos  que  modifican  el  estado. Para  esto,  el  componente Button tiene una propiedad
+ llamada onPress, que se dispara cada vez que el usuario presiona el componente en la pantalla.
+capturas y infomes punto 3.3
+
+Punto 3.4 Modifiquemos Contador.js, ahora queremos declarar el valor por defecto de su estado inicial. Para esto modificaremos 
+una parte del state y otra del render.
+ capturas y infomes punto 3.4 y punto 3.4_2
+
+Punto 5.2 y 5.3 Vamos a agregar un control que me permita setear el valor inicial de los contadores. Para esto, modificaremos el componente App.js
+capturas y infomes punto 5.2 y 5.3
+
+
+
+
+Conclusiones y Observaciones
+
+Profundizamos mas en el uso de componentes en React-Native
+
+Vimos como se usan y que son los componentes en react-native
+
+A diferencia de html o reactjs, react native tiene la opcion onpress que funciona de manera
+similar a onclick
+
+Vimos el tipo de valor que se le puede dar a las variables como por ejemplos props,state etc
+
+Vimos como es el ciclo de vida de los componentes de react-native
+

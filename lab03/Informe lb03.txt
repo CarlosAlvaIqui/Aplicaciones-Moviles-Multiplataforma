@@ -1,0 +1,36 @@
+Aplicaciones Móviles Multiplataforma
+
+LABORATORIO N°03
+
+React Native
+
+Alumno: Carlos Enrique Alvarez Iquiapaza
+
+
+Punto 3.1 Una vez iniciado el proyecto, se abrirá la aplicación en su emulador o dispositivo físico.
+captura/punto 3.1
+
+
+Punto 3.5 Hagamos  una  modificación  en  el  componente.Modifiquemos  el  texto  de  bienvenida  para saludar a los alumnos de Tecsup.
+captura/punto 3.5
+
+
+Punto 3.8 Procedamos  a  agregar  una  imagen.Modifique  el  código  para  que  ahora  se  importe  el componente Image y también se agregue en el render principal.
+captura/punto 3.8
+
+
+Punto 3.9 y 3.10 Copie el archivo logo.png proveído en el laboratorio en la raíz de su proyecto para verificar el funcionamiento correcto de
+ lo modificado. captura/punto 3.9
+
+Conclusiones y Observaciones
+
+En la realizacion del laboratorio se presentaron errores como por ejemplo que nose puedo encontrar
+el modulo index. La solucion fue agregar una linea de codigo en node_modules
+
+Si deseamos agregar una etiqueta nueva al html devemos importala enreact-native
+
+Para mantener actualizado nuestro dispositivo mientras actualizamos devemos habilitar 2 opciones al
+agitar nuestro dispositivo enable live Reload y enable hot reloading
+
+
+Tras la resolucion de este laboratorio vimos como ejecutar react en nuestros dispositvos

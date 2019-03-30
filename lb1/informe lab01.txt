@@ -1,0 +1,20 @@
+Aplicaciones Móviles Multiplataforma
+
+LABORATORIO N°01
+
+React JS
+
+Alumno: Carlos Enrique Alvarez Iquiapaza
+
+
+
+Conclusiones y Observaciones
+
+
+Tras la resolucion de este laboratorio vimos como es la creacion de aplicaciones de react 
+
+Javascripts tiene una gran cantidad de declarar funciones
+
+Tras la resolucion de este laboratorio vimos como importar modulos a diferentes archivos
+
+Vimos brevemente como que es y como funciona react
