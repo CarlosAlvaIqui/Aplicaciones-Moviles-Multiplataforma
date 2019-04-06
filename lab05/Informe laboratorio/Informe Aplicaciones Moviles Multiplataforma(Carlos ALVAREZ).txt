@@ -1,0 +1,49 @@
+APLICACIONES MÓVILES MULTIPLATAFORMA
+
+LABORATORIO N° 05
+
+Flatlist y Axios
+
+Alumno:Carlos Enrique Alvarez Iquiapaza
+
+1.3Ahora que conocemos el ciclo de vida, hagamos una pequeña prueba del inicio de montaje.
+Cambiaremos el contenido del archivo App.js Captura  Laboratorio-05 punto 1.3 gifsito
+
+1.4. Podemos aprovechar esto para diversas cosas, como crear por ejemplo un reloj.
+Laboratorio-05 punto 1.4 gifsito
+
+2.1. Hasta ahora, hemos visto componentes básicos como botones, textos e imágenes. Pasaremos
+a utilizar uno de los más utilizados: el componente FlatList. Modificaremos una vez más
+nuestro archivo App.js con el siguiente código. punto 2.1 captura
+
+2.3. Al ejecutar el código anterior vemos una advertencia en amarillo en la parte de abajo
+punto 2.3 y 2.3_2 y 2.3_3 captura
+
+2.5. Añadiremos capacidades interactivas al listado con el componente TouchableOpacity.
+Primero, lo importaremos en la invocación de nuestros elementos de React Native 
+Laboratorio-05 punto 2.5 gifsito
+punto 2.5 y 2.5_2 y 2.5_3 captura
+
+2.7 . Agregaremos la propiedad ListHeaderComponente para agregar un componente de cabecera
+a nuestro listado.
+Laboratorio-05 punto 2.7 gifsito
+
+3.4. Modificaremos de igual forma nuestro render y el onPressHandler, para que muestren el título
+de la película y la descripción de la misma al hacer click
+Laboratorio-05 punto 3.4 gifsito
+
+Conclusiones y Observaciones
+
+Tras la resolucion de este laboratorio vimos el uso de nuevo etiquetas de ract-native ejemplo FlatList, TouchableOpacity, TextInput
+estas etiquetas nos puede ayudar a hacer listar, inputs y elementos para tocar
+
+En la resolucion del laboratorio implementmaos la etique flatlist para crear listas en nuestra aplicacion
+
+En la resolucion del laboratorio importamos la libreria axios que nos permite usar la api de yts.am 
+y consultar su data
+
+Los arrays en reactnative necesecitan de la propiedad key esta los ayuda a indentifacarse rapidamente y renderizarlos
+
+En la resolucion de este laboratorio creamos la funcion search handler que nos permitia buscar items de una manera mas especifica
+
+Fue necesario la resolucion de laboratorios anteriores para la compresion y resolucion de este
