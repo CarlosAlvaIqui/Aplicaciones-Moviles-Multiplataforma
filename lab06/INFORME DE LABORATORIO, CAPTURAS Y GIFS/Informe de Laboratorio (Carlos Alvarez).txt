@@ -1,0 +1,68 @@
+APLICACIONES MÓVILES MULTIPLATAFORMA 
+LABORATORIO N° 06 
+React-navigation 
+Alumno:Carlos Enrique Alvarez Iquiapaza
+
+1.6 Nuestra aplicación debe correr sin problemas y mostrar un Hola Mundo. 
+Procederemos a crear una vista adicional, por lo que agregaremos lo siguiente
+ en App.js (captura 6.1)
+
+1.7. Note que, a diferencia de Home, que fue declarado como un objeto, Details llama directamente
+ al componente. Ambos funcionarán sin ningún problema ya que ambas sintaxis son válidas. 
+Agregaremos un botón en la vista de Hola Mundo para navegar entre vistas. Probemos dicha 
+funcionalidad y agregue un gif de dicho comportamiento.(Gif punto  1.7 gifsito lab06)
+ 
+1.8. Agreguemos un botón para navegar también en Details para poder volver a la vista
+de inicio. Agregue un gif con dicho comportamiento. (Gif punto  1.8 gifsito lab06)
+
+3.4. Finalmente, agregaremos la ruta en nuestro App.js, adjunte un gif del comportamiento final. 
+(Gif punto  3.4 gifsito lab06) (captura 6_2 y captura 6_3)
+
+4.3. Podemos hacer que nuestra aplicación tenga un menú lateral. Esto es conocido como Drawer.
+ Modificaremos las siguientes líneas de App.js y adjuntamos un gif del comportamiento. 
+(Gif punto  4.3 gifsito lab06)
+
+4.4. De igual manera podemos tener una navegación por Tabs inferiores. Modificamos App.js y adjuntamos un gif del comportamiento.	
+(Gif punto  4.4 gifsito lab06) (captura 6_4, captura 6_5 y captura 6_6)
+
+Conclusiones y Observaciones
+
+Para llamar a otra vista dentro de un componente primero este deve ser declarado dentro de app js 
+
+la librerias gesture-handler nos brinda la posibilidad de que nuestra interaciones tactiles con la aplicacion
+sean mas comodas y intuitas con el usuario.
+
+La configuracion que se en el archivo mainactivity.java es solo para las apps en android ya que estas usan una navegacion nativa.
+
+En la realizacion de laboratorio vimos como es la navegacion de vistas entre componentes
+
+Tras la realizacion del laboratorio comprendimos y profundizamos mas en el uso de las herramientas y librerias de react-native
+
+Para poder utilizar el comando yarn devemos instalar su componente para poder instalarlo correctamente
+
+Fue necesario la realizacion de laboratorios anteriores para la compresion y realizacion de este
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
