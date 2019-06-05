@@ -1,0 +1,20 @@
+vpn nos permite establecer un tunel privado desde nnuestra red o dispositivo a la red global de aws
+
+Este tiene los siguientes beneficios
+
+Alta disponibilidad
+Seguro
+Monitoreo Robusto
+
+En cambio aws vpc nos permite lanzar recursos de aws en una red de virtual que haya definido
+Esta red virtual es prácticamente idéntica a las redes tradicionales que se utilizan en sus 
+propios centros de datos, con los beneficios que supone utilizar la infraestructura escalable de AWS.
+
+
+Este tiene los siguientes beneficios
+
+Seguridad
+Simplicidad
+TODA LA ESCALABILIDAD Y FIABILIDAD DE AWS
+
+
