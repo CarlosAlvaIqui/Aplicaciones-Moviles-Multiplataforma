@@ -1,0 +1,35 @@
+APLICACIONES MÓVILES MULTIPLATAFORMA 
+LABORATORIO N° 07 
+Esquema de aplicación
+
+Alumno: Carlos Enrique Alvarez Iquiapaza
+
+Documento Word
+
+2.2. Reemplazaremos el contenido del archivo App.js por el siguiente. 
+(captura_3)
+
+5.2. Este componente deberá envolver todo dentro de nuestra imagen de fondo (tiene que ser dentro y envolviendo, para que no se altere el fondo) 
+(captura_1)
+
+6.1. Tomando como referencia la siguiente imagen, copiar el contenido de SignIn y copiarlo 
+en SignUp. Se debe modificar el fondo (ambos fondos, están proveídos por el docente, como 
+adjuntos a este laboratorio)(captura_2)
+
+
+
+
+Observaciones y Conclusiones
+
+Fue necesario la realizacion de laboratorios anteriores para la compresion y realizacion de este
+
+AsyncStorage es un sistema de almacenamiento simple, no cifrado, asíncrono, persistente.
+
+Socket.IO es una biblioteca de JavaScript para aplicaciones web en tiempo real. Permite la
+comunicación bidireccional en tiempo real entre clientes web y servidores.
+
+Tras la resolucion del laboratorio indagamos y profundizamos en el uso de react-native
+
+React-navigation nos permite a los desarrolladores configurar las pantallas de una aplicación con solo unas pocas líneas de código.
+
+Appcontainer son responsables de administrar el estado de la aplicación y vincular el navegador de nivel superior al entorno de la aplicación
