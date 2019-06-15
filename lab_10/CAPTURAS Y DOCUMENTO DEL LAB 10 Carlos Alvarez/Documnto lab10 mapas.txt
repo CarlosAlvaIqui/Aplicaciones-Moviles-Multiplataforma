@@ -1,0 +1,41 @@
+APLICACIONES MÓVILES MULTIPLATAFORMA 
+LABORATORIO N° 10 
+
+Integración con Maps 
+
+
+
+Alumno: Carlos Enrique Alvarez Iquiapaza
+
+
+captura numero 1 (captura1_botones)
+
+captura numero 2 (captura2_permiso_denegado)
+
+captura numero 3 (captura2_permisos)
+
+captura numero 4 (captura2_permisos2)
+
+captura numero 5 (captura3_mapa)
+
+captura numero 6 (captura4_ubicacion)
+
+captura numero 7 (captura5_marcador)
+
+captura numero 8 (captura6_mapa_personalizado)
+
+captura numero 9 (captura7_float_button)
+
+
+
+React-native-floating-action es una libreria de react que nos permite añadir un botón flotante que al presionarse puede desplegar más funciones
+
+React-native-maps es una librerias de react que nos permite utilizar mapas 
+
+React-native-maps tiene una api que nos permite controlar las formas o características del mapa
+
+Tras la realización del laboratorio vimos como declarar permisos para la utilización del mapa
+
+Tras la realización del laboratorio fuimos capaces de implementar y manipular los mapas
+
+Fue necesario la realización de laboratorios anteriores para la realización y comprensión de este

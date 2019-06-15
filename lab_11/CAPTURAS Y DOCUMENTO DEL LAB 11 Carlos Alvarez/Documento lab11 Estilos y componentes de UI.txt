@@ -1,0 +1,31 @@
+APLICACIONES MÓVILES MULTIPLATAFORMA 
+LABORATORIO N° 11 
+
+Estilos y componentes de UI 
+
+
+
+Alumno : Carlos Enrique Alvarez Iquiapaza
+
+
+captura numero1  (captura1_menu)
+
+captura numero2  (captura2_perfil)
+
+captura numero3  (captura3_logueo)
+
+
+
+Conclusiones y Observaciones
+
+
+Md5 es una función de javascripta que es usada para hashear mensajes con MD5
+
+React Native Elements nos proporcionar un kit de interfaz de usuario todo en uno para crear aplicaciones en modo nativo
+
+Tras la finalización del laboratorio fuimos capaces de implementar una pequeña interfaz de usuario
+
+Tras la realización del laboratorio indagamos más en paquetes de la personalización de interfaz de usuario estas herramientas son muy útiles ya que mejorar la experiencia del usuario
+
+Fue necesario la realización de laboratorios anteriores para la compresión y realización de este
+

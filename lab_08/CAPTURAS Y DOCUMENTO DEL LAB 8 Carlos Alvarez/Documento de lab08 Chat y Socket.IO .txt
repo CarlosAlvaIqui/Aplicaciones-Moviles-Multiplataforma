@@ -1,0 +1,31 @@
+APLICACIONES MÓVILES MULTIPLATAFORMA 
+LABORATORIO N° 08 
+
+Chat y Socket.IO 
+Alumno: Carlos Enrique Alvarez Iquiapaza
+
+Captura numero 1 (captura1)
+
+Captura numero 2 (captura2)
+
+Captura numero 3 (captura3)
+
+Captura numero 4 (captura4)
+
+Captura numero 5 (captura5)
+
+Conclusiones y observaciones
+
+
+Tras la realización vimos que Socket.IO permite la comunicación en tiempo real, bidireccional y basada en eventos.
+
+Socket io actualmente funciona en casi todas las plataformas, navegadores o dispositivos.
+
+Tras la realización del laboratorio indagamos más sobre las librerias que react puede implementar ejemplo socket io
+
+Fue necesario la realización de laboratorios anteriores para compresión realización ed este
+
+Gifted-chat nos permite la posibilidad de integrar de una forma fácil y rápida un pequeño chat a nuestro proyecto
+
+Tras la realización del laboratorio fuimos capaces de establecer comunicación entre 2 dispositivos
+

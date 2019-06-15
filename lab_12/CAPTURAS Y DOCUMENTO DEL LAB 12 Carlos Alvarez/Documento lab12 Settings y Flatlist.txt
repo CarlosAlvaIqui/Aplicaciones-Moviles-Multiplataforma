@@ -1,0 +1,23 @@
+APLICACIONES MÓVILES MULTIPLATAFORMA 
+LABORATORIO N° 12 
+
+Settings y Flatlist
+
+Alumno: Carlos Enrique Alvarez Iquiapaza
+
+captura numero 1 (captura1_listsetting)
+
+capturas numero 2 : {captura2_listapi,
+		     captura2_listapi2,
+		     captura2_listapi3}
+
+
+Conclusiones y Observaciones
+
+El paquete npm --react-native-setting-list nos permite personalizar una lista de configuraciones
+
+Tras la realización de este laboratorio fuimos capaces de añadir una lista personalizada mostrando datos de una web
+
+Tras la realización de este laboratorio indagamos más en la personalización de vistas que pueden ayudar a la experiencia de usuario
+
+Fue necesario la realización de laboratorios anteriores para la compresión y realización de este

@@ -12,7 +12,7 @@ import {
 	createAppContainer,
 	createBottomTabNavigator
 } from 'react-navigation';
-
+''
 import AuthLoadingScreen from './src/screens/AuthLoadingScreen/AuthLoadingScreen';
 import SignInScreen from './src/screens/SignIn/SignIn';
 import SignUpScreen from './src/screens/SignUp/SignUp';

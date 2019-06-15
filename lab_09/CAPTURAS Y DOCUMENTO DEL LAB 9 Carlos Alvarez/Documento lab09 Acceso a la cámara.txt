@@ -1,0 +1,32 @@
+APLICACIONES MÓVILES MULTIPLATAFORMA 
+LABORATORIO N° 09 
+
+Acceso a la cámara 
+
+
+
+Alumno: Carlos Enrique Alvarez Iquiapaza
+
+
+
+Captura numero 1 (Captura1_botones)
+
+Captura numero 2 (Captura2_permisos)
+
+Captura numero 3 (Captura3_tomarfoto)
+
+
+Conclusiones y Observaciones
+
+
+Multer es un middlware node.js que baicamente nos permite cargar archivos.
+
+Fue necesario la realización de laboratorios anteriores para comprensión y realización de este
+
+React-native-camera es un componente de react que nos permite utilizar la camara
+
+React-native-camera puede soportar fotografiás, videos ,detección de rostros , escaneo de código de barras y reconocimiento de texto
+
+Tras la realización del laboratorio vimos como delegar permisos para la camara grabar audio 
+
+react-native log-android es un comando de react que nos permite visualizar la consola de react
